@@ -11,7 +11,7 @@ def display_rainbow(colors)
     end
   end
   puts result
-  puts = "#{colors[0]}#{colors[1]}#{colors}#{colors[3]}#{colors[4]}#{colors[5]}#{colors[6]}"
+  puts = "#{colors[0]}, #{colors[1]}#{colors}#{colors[3]}#{colors[4]}#{colors[5]}#{colors[6]}"
 end
 
 #  just_for_the_intrusive_test
