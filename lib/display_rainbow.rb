@@ -11,5 +11,5 @@ def display_rainbow(colors)
     end
   end
   puts result
-  colors[0]+colors[1]+colors[2]+colors[3]+colors[4]+colors[5]+colors[6]+colors[0]+colors[0]+
+  colors[0]+colors[1]+colors[2]+colors[3]+colors[4]+colors[5]+colors[6]+colors[7]+colors[8]+
 end
